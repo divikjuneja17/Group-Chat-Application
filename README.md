@@ -1,6 +1,6 @@
 # Group Chat Application
 
-Developed a Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other.
+It is a Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other.
 
 ## Group Chat Working Video
 
